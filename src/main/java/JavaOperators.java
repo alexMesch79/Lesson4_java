@@ -35,7 +35,7 @@ public class JavaOperators {
         System.out.println("aBoolean1 ^ aBoolean2 = " + (aBoolean1 ^ aBoolean2));
         System.out.println("!aBoolean1 = " + !aBoolean1);
 
-        System.out.println(aString1 + aString2);
+        System.out.println(aString1 + aString2); // Объединение строк
 
 
         System.out.println("Переполнение максимального значения integer = " + overFlowMax);
